@@ -101,7 +101,7 @@ function generatePassword() {
   return password;
 }
 
-
+// added comments
 // CLASS NOTES - time stamp of class recording = 2:45ish pm, 26 SEP
   // var numChar = window.prompt - generates the initial text box
   // console.log(numChar) - get the prompt working and look at in log, complete a little at a time, step by step
